@@ -1,5 +1,5 @@
 # Education-Flashcard-Application
-<p>The application is hosted at the link - <a href="https://AbhinavPatel271.github.io/Educational-Flashcard-App/">Click Here</p>
+<p>The application is hosted at the link - <a href="[https://AbhinavPatel271.github.io/Educational-Flashcard-App/](https://abhinavpatel271.github.io/Educational-Flashcard-Application/)">Click Here</p>
 
 <h1>Educational Flashcard Application</h1>
 <p>A sleek and interactive educational flashcard application designed to make learning fun and engaging. Built using <strong>React.js</strong>, <strong>Material UI</strong>, <strong>HTML</strong>,<strong>CSS</strong> and <strong>JavaScript</strong>.</p>
