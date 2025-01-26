@@ -2,7 +2,7 @@
 <p>The application is hosted at the link - <a href="https://AbhinavPatel271.github.io/Educational-Flashcard-App/">Click Here</p>
 
 <h1>Educational Flashcard Application</h1>
-<p>A sleek and interactive educational flashcard application designed to make learning fun and engaging. Built using <strong>React.js</strong>, <strong>Material UI</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.</p>
+<p>A sleek and interactive educational flashcard application designed to make learning fun and engaging. Built using <strong>React.js</strong>, <strong>Material UI</strong>, <strong>HTML</strong>,<strong>CSS</strong> and <strong>JavaScript</strong>.</p>
 
 <h2>Features</h2>
 <ul>
@@ -23,13 +23,14 @@
 <div class="progress-bar">
   <div class="progress-bar-inner" style="width: 50%;"></div>
 </div>
-<p><em>Example: Progress bar after flipping 5 cards.</em></p>
+<p><em>Example: Progress bar after flipping 5 cards will show 50% and if the time is over then the score will remain 50% only.</em></p>
 
 <h2>Technologies Used</h2>
 <ul>
   <li><strong>React.js</strong> - Component-based JavaScript library for building the user interface.</li>
   <li><strong>Material UI</strong> - For responsive and modern design components.</li>
   <li><strong>HTML & CSS</strong> - For structuring and styling the application.</li>
+  <li><strong>JavaScript</strong> - For dynamic background.</li>
 </ul>
 
 <h2>Getting Started</h2>
@@ -49,4 +50,5 @@
    npm run dev
 </code>
 </pre>
+<p>Then visit the link which appeared in the terminal to open the application.</p>
 
