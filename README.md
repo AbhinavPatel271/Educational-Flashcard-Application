@@ -1,3 +1,7 @@
+<h2>NOTE -</h2>
+<p>The docs folder is used for hosting the application. The main files are in the my-react-app folder - index.html in the root directory , css and jsx files are in the src folder inside my-react-app and javascript , images used are in the public folder</p>
+
+
 # Education-Flashcard-Application
 <p>The application is hosted at the link - <a href="https://abhinavpatel271.github.io/Educational-Flashcard-Application/">Click Here</p>
 
