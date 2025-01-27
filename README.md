@@ -46,11 +46,12 @@
 
 2. Navigate to the project directory:
    cd Educational-Flashcard-App
+   cd my-react-app
 
-3. Install dependencies:
+4. Install dependencies:
    npm install
 
-4. Start the development server:
+5. Start the development server:
    npm run dev
 </code>
 </pre>
